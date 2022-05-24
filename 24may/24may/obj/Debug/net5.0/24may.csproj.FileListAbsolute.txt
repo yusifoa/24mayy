@@ -1,0 +1,16 @@
+C:\Users\yusifoa\source\repos\24may\24may\bin\Debug\net5.0\24may.exe
+C:\Users\yusifoa\source\repos\24may\24may\bin\Debug\net5.0\24may.deps.json
+C:\Users\yusifoa\source\repos\24may\24may\bin\Debug\net5.0\24may.runtimeconfig.json
+C:\Users\yusifoa\source\repos\24may\24may\bin\Debug\net5.0\24may.runtimeconfig.dev.json
+C:\Users\yusifoa\source\repos\24may\24may\bin\Debug\net5.0\24may.dll
+C:\Users\yusifoa\source\repos\24may\24may\bin\Debug\net5.0\ref\24may.dll
+C:\Users\yusifoa\source\repos\24may\24may\bin\Debug\net5.0\24may.pdb
+C:\Users\yusifoa\source\repos\24may\24may\obj\Debug\net5.0\24may.csproj.AssemblyReference.cache
+C:\Users\yusifoa\source\repos\24may\24may\obj\Debug\net5.0\24may.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifoa\source\repos\24may\24may\obj\Debug\net5.0\24may.AssemblyInfoInputs.cache
+C:\Users\yusifoa\source\repos\24may\24may\obj\Debug\net5.0\24may.AssemblyInfo.cs
+C:\Users\yusifoa\source\repos\24may\24may\obj\Debug\net5.0\24may.csproj.CoreCompileInputs.cache
+C:\Users\yusifoa\source\repos\24may\24may\obj\Debug\net5.0\24may.dll
+C:\Users\yusifoa\source\repos\24may\24may\obj\Debug\net5.0\ref\24may.dll
+C:\Users\yusifoa\source\repos\24may\24may\obj\Debug\net5.0\24may.pdb
+C:\Users\yusifoa\source\repos\24may\24may\obj\Debug\net5.0\24may.genruntimeconfig.cache
